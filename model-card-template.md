@@ -1,6 +1,4 @@
 # Model Card for "add model name here"
-
-*For explanations of the sections and example model cards, please revisit the orginal [Google paper](https://arxiv.org/abs/1810.03993) and our Spatiotemporal Model Card manuscript*
   
 Jump to section:
 
@@ -128,7 +126,6 @@ Jump to section:
 #### Human life
 
 #### Environmental impact
-
 
 ### Model transparency (explainability)
 
