@@ -4,14 +4,6 @@ The STMCs framework introduces a set of components that extend the [original Mod
 
 ## Overview
 
-<style>
-  table { width: 100%; border-collapse: collapse; font-size: 14px; }
-  th { background: var(--color-background-secondary); color: var(--color-text-primary); font-weight: 500; text-align: left; padding: 10px 12px; border: 0.5px solid var(--color-border-tertiary); }
-  td { vertical-align: top; padding: 10px 12px; border: 0.5px solid var(--color-border-tertiary); color: var(--color-text-primary); }
-  ul { margin: 0; padding-left: 18px; }
-  li { margin-bottom: 4px; line-height: 1.5; }
-  .section-label { font-weight: 500; white-space: nowrap; }
-</style>
 <table>
   <thead>
     <tr>
