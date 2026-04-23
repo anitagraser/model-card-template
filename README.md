@@ -2,6 +2,8 @@
 
 The [STMCs framework](https://dl.acm.org/doi/pdf/10.1145/3809183) [[0]](#publications) introduces a set of components that extend the [original Model Cards by Mitchell et al. (2019)](https://arxiv.org/abs/1810.03993) to address the distinctive characteristics of spatiotemporal modeling. The following table provides an overview of the proposed new components and how they match the established Model Card sections:
 
+➡️ [To the template](model-card-template.md)
+
 ## Overview
 
 <table>
